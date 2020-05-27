@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Verify that when you enter the new web page" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-05-27T00:55:02" hostname="Elizabeth" time="12.242">
+  <properties/>
+  <testcase name="The user Wilson wants to delete a date." classname="Verify that when you enter the new web page" time="12.242"/>
+  <system-out><![CDATA[if uno
+]]></system-out>
+  <system-err><![CDATA[[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@73d25c52
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@5f43390c
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@231304a7
+may 26, 2020 7:55:03 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.switches: --start-maximized, goog:chromeOptions: {args: [--start-maximized], extensions: []}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
+Starting ChromeDriver 81.0.4044.69 (6813546031a4bc83f717a2ef7cd4ac6ec1199132-refs/branch-heads/4044@{#776}) on port 7138
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+may 26, 2020 7:55:07 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+[1590540908.034][SEVERE]: Timed out receiving message from renderer: 0.100
+[1590540908.135][SEVERE]: Timed out receiving message from renderer: 0.100
+[1590540908.238][SEVERE]: Timed out receiving message from renderer: 0.100
+[1590540908.490][SEVERE]: Timed out receiving message from renderer: 0.100
+[1590540908.593][SEVERE]: Timed out receiving message from renderer: 0.100
+[1590540908.695][SEVERE]: Timed out receiving message from renderer: 0.100
+[1590540908.796][SEVERE]: Timed out receiving message from renderer: 0.100
+[1590540908.898][SEVERE]: Timed out receiving message from renderer: 0.100
+[1590540909.000][SEVERE]: Timed out receiving message from renderer: 0.100
+[1590540909.103][SEVERE]: Timed out receiving message from renderer: 0.100
+[1590540909.204][SEVERE]: Timed out receiving message from renderer: 0.100
+[1590540909.604][SEVERE]: Timed out receiving message from renderer: 0.100
+[1590540909.732][SEVERE]: Timed out receiving message from renderer: 0.100
+[1590540909.833][SEVERE]: Timed out receiving message from renderer: 0.100
+[1590540909.943][SEVERE]: Timed out receiving message from renderer: 0.100
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:The user Wilson wants to delete a date.:Example: {firstName=wbedoya, lasName=Londres, email=dsfaas@gmail.com, phone=0342642399, gender=1, country=Austria, answer=- Double Click on Edit Icon to EDIT the Table Row.} [Given that Wilson wants to access on Web Automation Demo Site [Wilson open up [wilson opens the Pagina auto]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:The user Wilson wants to delete a date.:Example: {firstName=wbedoya, lasName=Londres, email=dsfaas@gmail.com, phone=0342642399, gender=1, country=Austria, answer=- Double Click on Edit Icon to EDIT the Table Row.} [Given that Wilson wants to access on Web Automation Demo Site [Wilson open up [wilson opens the Pagina auto]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:The user Wilson wants to delete a date.:Example: {firstName=wbedoya, lasName=Londres, email=dsfaas@gmail.com, phone=0342642399, gender=1, country=Austria, answer=- Double Click on Edit Icon to EDIT the Table Row.} [Given that Wilson wants to access on Web Automation Demo Site [Wilson open up [wilson opens the Pagina auto]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@4dd1f572
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@38069076
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@48ac899b
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:The user Wilson wants to delete a date.:Example: {firstName=wbedoya, lasName=Londres, email=dsfaas@gmail.com, phone=0342642399, gender=1, country=Austria, answer=- Double Click on Edit Icon to EDIT the Table Row.} [Given that Wilson wants to access on Web Automation Demo Site [Wilson open up [wilson opens the Pagina auto]], When he looks for a date
+| firstName | lasName | email | phone | gender | country | answer |
+| wbedoya | Londres | dsfaas@gmail.com | 0342642399 | 1 | Austria | - Double Click on Edit Icon to EDIT the Table Row. | [Wilson select page [wilson clicks on  ]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:The user Wilson wants to delete a date.:Example: {firstName=wbedoya, lasName=Londres, email=dsfaas@gmail.com, phone=0342642399, gender=1, country=Austria, answer=- Double Click on Edit Icon to EDIT the Table Row.} [Given that Wilson wants to access on Web Automation Demo Site [Wilson open up [wilson opens the Pagina auto]], When he looks for a date
+| firstName | lasName | email | phone | gender | country | answer |
+| wbedoya | Londres | dsfaas@gmail.com | 0342642399 | 1 | Austria | - Double Click on Edit Icon to EDIT the Table Row. | [Wilson select page [wilson clicks on  ]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:The user Wilson wants to delete a date.:Example: {firstName=wbedoya, lasName=Londres, email=dsfaas@gmail.com, phone=0342642399, gender=1, country=Austria, answer=- Double Click on Edit Icon to EDIT the Table Row.} [Given that Wilson wants to access on Web Automation Demo Site [Wilson open up [wilson opens the Pagina auto]], When he looks for a date
+| firstName | lasName | email | phone | gender | country | answer |
+| wbedoya | Londres | dsfaas@gmail.com | 0342642399 | 1 | Austria | - Double Click on Edit Icon to EDIT the Table Row. | [Wilson select page [wilson clicks on  ]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@46e9f68b
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:The user Wilson wants to delete a date.:Example: {firstName=wbedoya, lasName=Londres, email=dsfaas@gmail.com, phone=0342642399, gender=1, country=Austria, answer=- Double Click on Edit Icon to EDIT the Table Row.} [Given that Wilson wants to access on Web Automation Demo Site [Wilson open up [wilson opens the Pagina auto]], When he looks for a date
+| firstName | lasName | email | phone | gender | country | answer |
+| wbedoya | Londres | dsfaas@gmail.com | 0342642399 | 1 | Austria | - Double Click on Edit Icon to EDIT the Table Row. | [Wilson select page [wilson clicks on  ]], And he select the option Delete with right click]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@15209f84
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:The user Wilson wants to delete a date.:Example: {firstName=wbedoya, lasName=Londres, email=dsfaas@gmail.com, phone=0342642399, gender=1, country=Austria, answer=- Double Click on Edit Icon to EDIT the Table Row.} [Given that Wilson wants to access on Web Automation Demo Site [Wilson open up [wilson opens the Pagina auto]], When he looks for a date
+| firstName | lasName | email | phone | gender | country | answer |
+| wbedoya | Londres | dsfaas@gmail.com | 0342642399 | 1 | Austria | - Double Click on Edit Icon to EDIT the Table Row. | [Wilson select page [wilson clicks on  ]], And he select the option Delete with right click, Then He will check on the screen, the date do not exist
+| firstName | lasName | email | phone | gender | country | answer |
+| wbedoya | Londres | dsfaas@gmail.com | 0342642399 | 1 | Austria | - Double Click on Edit Icon to EDIT the Table Row. |]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:The user Wilson wants to delete a date.:Example: {firstName=wbedoya, lasName=Londres, email=dsfaas@gmail.com, phone=0342642399, gender=1, country=Austria, answer=- Double Click on Edit Icon to EDIT the Table Row.} [Given that Wilson wants to access on Web Automation Demo Site [Wilson open up [wilson opens the Pagina auto]], When he looks for a date
+| firstName | lasName | email | phone | gender | country | answer |
+| wbedoya | Londres | dsfaas@gmail.com | 0342642399 | 1 | Austria | - Double Click on Edit Icon to EDIT the Table Row. | [Wilson select page [wilson clicks on  ]], And he select the option Delete with right click, Then He will check on the screen, the date do not exist
+| firstName | lasName | email | phone | gender | country | answer |
+| wbedoya | Londres | dsfaas@gmail.com | 0342642399 | 1 | Austria | - Double Click on Edit Icon to EDIT the Table Row. |]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - testFinished: The user Wilson wants to delete a date.:Example: {firstName=wbedoya, lasName=Londres, email=dsfaas@gmail.com, phone=0342642399, gender=1, country=Austria, answer=- Double Click on Edit Icon to EDIT the Table Row.} [Given that Wilson wants to access on Web Automation Demo Site [Wilson open up [wilson opens the Pagina auto]], When he looks for a date
+| firstName | lasName | email | phone | gender | country | answer |
+| wbedoya | Londres | dsfaas@gmail.com | 0342642399 | 1 | Austria | - Double Click on Edit Icon to EDIT the Table Row. | [Wilson select page [wilson clicks on  ]], And he select the option Delete with right click, Then He will check on the screen, the date do not exist
+| firstName | lasName | email | phone | gender | country | answer |
+| wbedoya | Londres | dsfaas@gmail.com | 0342642399 | 1 | Austria | - Double Click on Edit Icon to EDIT the Table Row. |]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - TestOutcomes: [The user Wilson wants to delete a date.:Example: {firstName=wbedoya, lasName=Londres, email=dsfaas@gmail.com, phone=0342642399, gender=1, country=Austria, answer=- Double Click on Edit Icon to EDIT the Table Row.} [Given that Wilson wants to access on Web Automation Demo Site [Wilson open up [wilson opens the Pagina auto]], When he looks for a date
+| firstName | lasName | email | phone | gender | country | answer |
+| wbedoya | Londres | dsfaas@gmail.com | 0342642399 | 1 | Austria | - Double Click on Edit Icon to EDIT the Table Row. | [Wilson select page [wilson clicks on  ]], And he select the option Delete with right click, Then He will check on the screen, the date do not exist
+| firstName | lasName | email | phone | gender | country | answer |
+| wbedoya | Londres | dsfaas@gmail.com | 0342642399 | 1 | Austria | - Double Click on Edit Icon to EDIT the Table Row. |]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - Final testOutcomes: [The user Wilson wants to delete a date.:Example: {firstName=wbedoya, lasName=Londres, email=dsfaas@gmail.com, phone=0342642399, gender=1, country=Austria, answer=- Double Click on Edit Icon to EDIT the Table Row.} [Given that Wilson wants to access on Web Automation Demo Site [Wilson open up [wilson opens the Pagina auto]], When he looks for a date
+| firstName | lasName | email | phone | gender | country | answer |
+| wbedoya | Londres | dsfaas@gmail.com | 0342642399 | 1 | Austria | - Double Click on Edit Icon to EDIT the Table Row. | [Wilson select page [wilson clicks on  ]], And he select the option Delete with right click, Then He will check on the screen, the date do not exist
+| firstName | lasName | email | phone | gender | country | answer |
+| wbedoya | Londres | dsfaas@gmail.com | 0342642399 | 1 | Austria | - Double Click on Edit Icon to EDIT the Table Row. |]]
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[92m
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: The user Wilson wants to delete a date.
+----------------------------------------------------------------------------?[0m
+]]></system-err>
+</testsuite>
